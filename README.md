@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanushree Angirwal  
 
-<!--
-**t-1409/t-1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Business Analyst** skilled in:
 
-Here are some ideas to get you started:
+📊 Data Analysis using Excel & Power BI  
+🧮 SQL for data extraction & reporting  
+📝 Business Documentation (BRD, FRD, User Stories)  
+📈 Data storytelling & dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building my **Business Analyst Portfolio** to showcase:
+
+- Case studies  
+- Data analysis projects  
+- Power BI dashboards  
+- SQL queries  
+- Business documentation samples  
+
+---
+
+### 🌱 Currently Working On  
+- Strengthening my BA portfolio  
+- Learning advanced SQL  
+- Practicing real-world case studies  
+- Building Power BI dashboards  
+
+---
+
+### 📬 Connect With Me  
+**LinkedIn:** (https://www.linkedin.com/in/tanushree-angirwal-008344362/)  
+**Email:** (tanushreeangirwal@gmail.com)
+
+**LinkedIn:** (Add your link here)  
+**Email:** (Your email)

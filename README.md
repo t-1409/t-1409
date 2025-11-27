@@ -29,5 +29,3 @@ I am building my **Business Analyst Portfolio** to showcase:
 **LinkedIn:** (https://www.linkedin.com/in/tanushree-angirwal-008344362/)  
 **Email:** (tanushreeangirwal@gmail.com)
 
-**LinkedIn:** (Add your link here)  
-**Email:** (Your email)
